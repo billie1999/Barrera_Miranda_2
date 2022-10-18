@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Barrera_Miranda</string>
+    <string name="question_test">Hola mundo</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer!</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong!</string>
+    <string name="next_button">Next!</string>
+    <string name="question_australia">The skin help the body to maintain its temperature!!</string>
+    <string name="question_oceans">The four types of bones are long bones, short bones, flat bones and irregular bones!!</string>
+    <string name="question_mideast">The average adult skeleton has over 500 bones</string>
+    <string name="question_africa">The two main parts of the nervous system are the brain and the peripheral nervous system </string>
+    <string name="question_americas">The three types of muscle are skeletal, smooth and cardiac muscle.</string>
+    <string name="question_asia">The organ that links the nervous system to the endocrine system is the hypothalamus.</string>
+
+</resources>
