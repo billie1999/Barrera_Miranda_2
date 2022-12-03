@@ -24,7 +24,8 @@ class QuizViewModel(private val savedStateHandle: SavedStateHandle): ViewModel()
         Question(R.string.question_12, true),
         Question(R.string.question_13, true),
         Question(R.string.question_14, true),
-        Question(R.string.question_15,true)
+        Question(R.string.question_15,true) ,
+        Question(R.string.question_16,false)
 
     )
 
